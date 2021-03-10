@@ -12,3 +12,4 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+-Carlos Suarez, carlossm-cloud
