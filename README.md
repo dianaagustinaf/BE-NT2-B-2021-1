@@ -12,4 +12,10 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+<<<<<<< HEAD
 - Gaston Gonzalez Perna, gaston-gonzalezperna
+=======
+- Tomás Bogado, bgdtomas
+- Sebastian Bianco, SebastianBianco
+- Giuliano Delle Chiaie, giulianodelle
+>>>>>>> ed5088a9f0d2b2a374eab73e6abd9a2866902863
