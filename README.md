@@ -12,4 +12,5 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
-- Tomás Bogado, bgdtomas
+- Tomás Bogado, bgdto
+- Ezequiel Cherone, echero
