@@ -12,7 +12,12 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Luz Victoria, LuzAldanaVictoria
 - Tomás Bogado, bgdtomas
 - Sebastian Bianco, SebastianBianco
 - Giuliano Delle Chiaie, giulianodelle
 - Wei Lee, WeiLee-Ort
+- Pagani Mariano, chaosknt
+- Santiago Mertens, santiagomertens
+- Lucas Demian Levy, LucasDemianLevy
+- Mariano Heffes, mmheffes
