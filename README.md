@@ -15,4 +15,5 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 - Tomás Bogado, bgdtomas
 - Sebastian Bianco, SebastianBianco
 - Giuliano Delle Chiaie, giulianodelle
+- Lucas Demian Levy, LucasDemianLevy
 - Mariano Heffes, mmheffes
