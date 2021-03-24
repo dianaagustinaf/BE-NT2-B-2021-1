@@ -16,3 +16,5 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 - Sebastian Bianco, SebastianBianco
 - Giuliano Delle Chiaie, giulianodelle
 - Santiago Mertens, santiagomertens
+- Lucas Demian Levy, LucasDemianLevy
+- Mariano Heffes, mmheffes
