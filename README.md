@@ -17,6 +17,7 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 - Tomás Bogado, bgdtomas
 - Sebastian Bianco, SebastianBianco
 - Giuliano Delle Chiaie, giulianodelle
+- Cesar Garcia, cgarcia80
 - Nicolás Zapata, nicozapata-ort
 - Jeronimo Favero, jfave
 - Wei Lee, WeiLee-Ort
