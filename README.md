@@ -27,3 +27,4 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 - Santiago Mertens, santiagomertens
 - Lucas Demian Levy, LucasDemianLevy
 - Mariano Heffes, mmheffes
+- Ezequiel Cherone, echero
