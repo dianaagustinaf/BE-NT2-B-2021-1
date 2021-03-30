@@ -28,3 +28,4 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 - Lucas Demian Levy, LucasDemianLevy
 - Mariano Heffes, mmheffes
 - Ezequiel Cherone, echero
+- Gaston Gonzalez Perna, gaston-gonzalezperna
