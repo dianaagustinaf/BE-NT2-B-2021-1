@@ -30,3 +30,4 @@ Para inciar este proyecto, es necesario que todos los participantes tengan sus c
 - Ezequiel Cherone, echero
 - Gaston Gonzalez Perna, gaston-gonzalezperna
 - Sonia Font, sonia-font
+- Diana Fernández, dianaagustinaf
